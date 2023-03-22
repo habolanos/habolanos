@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harold Adrian</h1>
-<h3 align="center">A ☁️ Solution Architect of System Engineer and University's Professor in the Cali, Colombia 🇨🇴</h3>
+<h3 align="center">A ☁️ Solution Architect of System Engineer and University's Professor at Cali, Colombia 🇨🇴</h3>
 
 - 🔭 I’m currently working **Java, Ruby, Python and C++** ⚡
 - ♾️ I love DevOps Practices and Cloud Technologies...☁️
