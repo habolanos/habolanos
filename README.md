@@ -5,15 +5,13 @@
 
 - 🔭 I’m currently working on **Java, Ruby, Python and C++ ⚡**
 
-- 🌱 I’m currently learning **French and Practices a lot English**
-
-- 🤝 I’m looking for help with **♾️DevOps, ☁️ Clouds AWS and Azure**
+- ✍️ I’m currently learning **French 🇫🇷 and I practice a lot of English 🇺🇸**
 
 - 👨‍💻 All of my top projects are available at [linkedin projects](https://www.linkedin.com/in/habolanos/details/projects/)
 
 - 📝 I regularly write articles on **Software Architectures, Ethics for Performing Engineering**
 
-- 💬 Ask me about **AWS, Azure, Java... and Kubernetes...⚡⚡**
+- 💬 Ask me about **♾️DevOps, ☁️ Clouds AWS and Azure, 📦 Docker and Kubernetes, ☕ Java... ♦️ Ruby, 🟢 Node, 🐍 Python...⚡⚡**
 
 - 📫 How to reach me **haroldadrian@gmail.com**
 
