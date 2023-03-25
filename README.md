@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on **Software Architectures, Ethics for Performing Engineering**
 
-- 💬 Ask me about **♾️DevOps, ☁️Clouds AWS and Azure, 🐋Docker and 🧭Kubernetes, ☕Java... ♦️Ruby, 🟢Node, 🐍Python, 🟦C++...⚡⚡**
+- 💬 Ask me about **♾️DevOps, ☁️Clouds AWS and Azure, 🐋Docker and ☸️Kubernetes, ☕Java... ♦️Ruby, 🟢Node, 🐍Python, 🟦C++...⚡⚡**
 
 - 📫 How to reach me **haroldadrian@gmail.com**
 
