@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habolanos&label=Profile%20views&color=0e75b6&style=flat" alt="habolanos" /> </p>
 
-- 🔭 I’m currently working on **☕Java, ♦️Ruby, 🟢Node, 🐍Python and 🟦C++ ⚡**
+- 🔭 I’m currently working on **Enterprise's Tech Projects on America⚡**
 
 - ✍️ I’m currently learning **French 🇫🇷 and I practice a lot of English 🇺🇸**
 
