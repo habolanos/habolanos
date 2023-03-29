@@ -1,23 +1,17 @@
 <h1 align="center">Hi 👋, I'm Harold Adrian</h1>
 <h3 align="center">A Passionate Cloud Solution Architect of System Engineer and University Professor at Cali, Colombia 🇨🇴</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=habolanos&label=Profile%20views&color=0e75b6&style=flat" alt="habolanos" /> </p>
 
 - 🔭 I’m currently working on **Enterprise's Tech Projects on America⚡**
-
 - ✍️ I’m currently learning **French 🇫🇷 and I practice a lot of English 🇺🇸**
-
 - 👨‍💻 All of my top projects are available at [linkedin projects](https://www.linkedin.com/in/habolanos/details/projects/)
-
 - 📝 I regularly write articles on **Software Architectures, Ethics for Performing Engineering**
-
 - 💬 Ask me about **♾️DevOps, ☁️Clouds AWS and Azure, 🐋Docker and ☸️Kubernetes, ☕Java... ♦️Ruby, 🟢Node, 🐍Python, 🟦C++...⚡⚡**
-
 - 📫 How to reach me **haroldadrian@gmail.com**
-
 - 📄 Know about my experiences [linkedin.com/in/habolanos](https://www.linkedin.com/in/habolanos/)
-
 - ⚡ Fun fact **Spend time with my Family,Play with my Son, Aventures, Listen to stories, Share jokes**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=habolanos&label=Profile%20views&color=0e75b6&style=flat" alt="habolanos" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
