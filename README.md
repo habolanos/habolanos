@@ -9,7 +9,7 @@
 - 💬 Ask me about **♾️DevOps, ☁️Clouds AWS and Azure, 🐋Docker and ☸️Kubernetes, ☕Java... ♦️Ruby, 🟢Node, 🐍Python, 🟦C++...⚡⚡**
 - 📫 How to reach me **haroldadrian@gmail.com**
 - 📄 Know about my experiences [linkedin.com/in/habolanos](https://www.linkedin.com/in/habolanos/)
-- ⚡ Fun fact **Spend time with my Family,Play with my Son, Aventures, Listen to stories, Share jokes**
+- ⚡ Fun fact **Spend time with my Family,Play with my Son, Aventures, Listen Stories, Share Jokes**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habolanos&label=Profile%20views&color=0e75b6&style=flat" alt="habolanos" /> </p>
 
