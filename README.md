@@ -1,5 +1,5 @@
 <h1 align="center">💫 About Me...</h1>
-<h3 align="center">A Passionate Cloud Solution Architect of System Engineer and University Professor at Cali, Colombia 🇨🇴</h3>
+<h3 align="center">A Passionate Cloud Solution Architect of System Engineer and DEVOPS, and my free time University Professor at Cali, Colombia 🇨🇴</h3>
 
 
 - 🔭 I’m currently working on **Enterprise's Tech Projects on America⚡**
