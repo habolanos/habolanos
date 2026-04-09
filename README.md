@@ -226,6 +226,7 @@ When I’m not working on architecture, automation, or cloud strategy, I enjoy s
 
 ## 🌎 In the World
 <p align="left">
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=8BFetplJ5LYhRB4tJ5weKl1qWTCBrNICV1dIyBhYbgk&cl=ffffff&w=a"></script>
   <a href="https://clustrmaps.com/site/1c9od"  title="ClustrMaps">
     <img src="//www.clustrmaps.com/map_v2.png?d=8BFetplJ5LYhRB4tJ5weKl1qWTCBrNICV1dIyBhYbgk&cl=ffffff" />
   </a>
