@@ -224,10 +224,8 @@ I regularly explore and share ideas around:
 
 When I’m not working on architecture, automation, or cloud strategy, I enjoy spending time with my family, playing with my son, going on adventures, listening to stories, and sharing good jokes.
 
-## 🌎 In the World
-<p align="left">
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=8BFetplJ5LYhRB4tJ5weKl1qWTCBrNICV1dIyBhYbgk&cl=ffffff&w=a"></script>
-  <a href="https://clustrmaps.com/site/1c9od"  title="ClustrMaps">
-    <img src="//www.clustrmaps.com/map_v2.png?d=8BFetplJ5LYhRB4tJ5weKl1qWTCBrNICV1dIyBhYbgk&cl=ffffff" />
-  </a>
-</p>
+## 🌍 My Visits on real time
+
+[![ClustrMaps](https://www.clustrmaps.com/map_v2.png?d=8BFetplJ5LYhRB4tJ5weKl1qWTCBrNICV1dIyBhYbgk&cl=ffffff)](https://clustrmaps.com/site/1c9od)
+
+*Mapa de visitantes generado por [ClustrMaps](https://clustrmaps.com/site/1c9od)*
