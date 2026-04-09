@@ -220,8 +220,9 @@ I regularly explore and share ideas around:
   </a>
 </p>
 
+<p align="left">
 <a href="https://clustrmaps.com/site/1c9od"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=8BFetplJ5LYhRB4tJ5weKl1qWTCBrNICV1dIyBhYbgk&cl=ffffff" /></a>
-
+</p>
 ## ⚡ Beyond Tech
 
 When I’m not working on architecture, automation, or cloud strategy, I enjoy spending time with my family, playing with my son, going on adventures, listening to stories, and sharing good jokes.
