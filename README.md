@@ -224,12 +224,12 @@ I regularly explore and share ideas around:
 
 When I’m not working on architecture, automation, or cloud strategy, I enjoy spending time with my family, playing with my son, going on adventures, listening to stories, and sharing good jokes.
 
-### Visitantes del repositorio
-
-[![Visitantes](https://www.clustrmaps.com/map_v2.png?d=8BFetplJ5LYhRB4tJ5weKl1qWTCBrNICV1dIyBhYbgk&cl=ffffff)](https://clustrmaps.com/site/1c9od)
-
 ## 🌍 My Visits on real time
 
 [![ClustrMaps](https://www.clustrmaps.com/map_v2.png?d=8BFetplJ5LYhRB4tJ5weKl1qWTCBrNICV1dIyBhYbgk&cl=ffffff)](https://clustrmaps.com/site/1c9od)
 
-*Mapa de visitantes generado por [ClustrMaps](https://clustrmaps.com/site/1c9od)*
+### 📊 Repo's Stats
+
+![GitHub stars](https://img.shields.io/github/stars/habolanos/habolanos?style=social)
+![GitHub forks](https://img.shields.io/github/forks/habolanos/habolanos?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/habolanos/habolanos?style=social)
